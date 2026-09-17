@@ -6,26 +6,18 @@
     .blue { fill: #1B5FD9; }
     .body { font-size: 20px; fill: #141414; }
     .meta { font-size: 14px; fill: #6B6B66; }
-    .reveal { opacity: 0; animation: up .7s ease-out forwards; }
-    .d1 { animation-delay: .1s } .d2 { animation-delay: .35s } .d3 { animation-delay: .6s } .d4 { animation-delay: .85s }
-    @keyframes up { from { opacity: 0; transform: translateY(12px) } to { opacity: 1; transform: translateY(0) } }
-    @media (prefers-reduced-motion: reduce) { .reveal { animation: none; opacity: 1 } }
   </style>
   <rect width="1200" height="400" rx="20" fill="#FFFFFF"/>
   <rect x="0.5" y="0.5" width="1199" height="399" rx="20" fill="none" stroke="#E5E5E1"/>
   <g class="f">
-    <text class="eyebrow reveal d1" x="64" y="74">FOUNDING PRODUCT &amp; PROJECT MANAGER</text>
-    <g class="reveal d2">
-      <text class="h" x="62" y="152">Someone has to</text>
-      <text class="h" x="62" y="224">decide <tspan class="blue">what gets built.</tspan></text>
-    </g>
-    <g class="reveal d3">
-      <text class="body" x="64" y="280">That someone is me. First product hire at a startup, first HR hire before that, and I built</text>
-      <text class="body" x="64" y="310">both functions from nothing. <tspan class="blue" font-weight="700">8</tspan> products across <tspan class="blue" font-weight="700">4</tspan> domains: AI operations, health tech, edtech and SaaS.</text>
-    </g>
-    <text class="meta reveal d4" x="64" y="358">Pakistan, remote   ·   Canadian, Malaysian &amp; Pakistani clients   ·   MS Project Management   ·   AI-native</text>
+    <text class="eyebrow" x="64" y="74">FOUNDING PRODUCT &amp; PROJECT MANAGER</text>
+    <text class="h" x="62" y="152">Someone has to</text>
+    <text class="h" x="62" y="224">decide <tspan class="blue">what gets built.</tspan></text>
+    <text class="body" x="64" y="280">That someone is me. First product hire at a startup, first HR hire before that, and I built</text>
+    <text class="body" x="64" y="310">both functions from nothing. <tspan class="blue" font-weight="700">8</tspan> products across <tspan class="blue" font-weight="700">4</tspan> domains: AI operations, health tech, edtech and SaaS.</text>
+    <text class="meta" x="64" y="358">Pakistan, remote   ·   Canadian, Malaysian &amp; Pakistani clients   ·   MS Project Management   ·   AI-native</text>
   </g>
+  <circle cx="1096" cy="76" r="7" fill="#F5C542"/>
   <circle cx="1120" cy="76" r="7" fill="#1B5FD9"/>
   <circle cx="1144" cy="76" r="7" fill="#E8703A"/>
-  <circle cx="1096" cy="76" r="7" fill="#F5C542"/>
 </svg>
