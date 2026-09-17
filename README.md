@@ -65,19 +65,33 @@ Manual logging and reporting, eliminated across 10+ weekly meetings, along with 
 
 ## The tools I know cold
 
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
+Whatever the team already runs on. These are the ones I know best.
+
+**Project & product management**<br>
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
 ![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-141414?style=flat-square&logo=notion&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-F06A6A?style=flat-square&logo=asana&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 ![GitHub Projects](https://img.shields.io/badge/GitHub_Projects-181717?style=flat-square&logo=github&logoColor=white)
-![MS Project](https://img.shields.io/badge/MS_Project-217346?style=flat-square&logoColor=white)
+![MS Project](https://img.shields.io/badge/MS_Project-217346?style=flat-square)
+![Notion](https://img.shields.io/badge/Notion-141414?style=flat-square&logo=notion&logoColor=white)
+
+**Collaboration & design**<br>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![FigJam](https://img.shields.io/badge/FigJam-A259FF?style=flat-square&logo=figma&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=FFD02F)
 ![Excalidraw](https://img.shields.io/badge/Excalidraw-6965DB?style=flat-square&logo=excalidraw&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
-![Teams](https://img.shields.io/badge/Teams-6264A7?style=flat-square&logoColor=white)
+![Teams](https://img.shields.io/badge/Teams-6264A7?style=flat-square)
+
+**Automation**<br>
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=flat-square&logo=zapier&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white)
+![Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square&logo=googleappsscript&logoColor=white)
+![Fathom.ai](https://img.shields.io/badge/Fathom.ai-141414?style=flat-square)
 
 ## What people say
 
