@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="Meeting ends, Fathom.ai recap, parsed and deduplicated, correct project doc, owning team's channel">
+  <style>
+    .f { font-family: "Instrument Sans", "Segoe UI", -apple-system, system-ui, Helvetica, Arial, sans-serif; }
+    .t { font-size: 17px; font-weight: 600; fill: #141414; }
+    .s { font-size: 12px; letter-spacing: 1.5px; fill: #6B6B66; }
+    .a { stroke: #1B5FD9; stroke-width: 2; stroke-dasharray: 6 6; animation: flow 1.2s linear infinite; }
+    @keyframes flow { to { stroke-dashoffset: -12 } }
+    @media (prefers-reduced-motion: reduce) { .a { animation: none } }
+  </style>
+  <rect width="1200" height="150" rx="16" fill="#F4F4F2"/>
+  <g class="f" text-anchor="middle">
+    <g><rect x="24" y="45" width="188" height="60" rx="12" fill="#FFF" stroke="#E5E5E1"/><text class="s" x="118" y="36">STEP 1</text><text class="t" x="118" y="81">Meeting ends</text></g>
+    <line class="a" x1="216" y1="75" x2="252" y2="75"/>
+    <g><rect x="256" y="45" width="188" height="60" rx="12" fill="#FFF" stroke="#E5E5E1"/><text class="s" x="350" y="36">STEP 2</text><text class="t" x="350" y="81">Fathom.ai recap</text></g>
+    <line class="a" x1="448" y1="75" x2="484" y2="75"/>
+    <g><rect x="488" y="45" width="224" height="60" rx="12" fill="#FFF" stroke="#E5E5E1"/><text class="s" x="600" y="36">STEP 3</text><text class="t" x="600" y="81" style="font-size:15px">Parsed &amp; deduplicated</text></g>
+    <line class="a" x1="716" y1="75" x2="752" y2="75"/>
+    <g><rect x="756" y="45" width="188" height="60" rx="12" fill="#FFF" stroke="#E5E5E1"/><text class="s" x="850" y="36">STEP 4</text><text class="t" x="850" y="81">Right project doc</text></g>
+    <line class="a" x1="948" y1="75" x2="984" y2="75"/>
+    <g><rect x="988" y="45" width="188" height="60" rx="12" fill="#1B5FD9"/><text class="s" x="1082" y="36">STEP 5</text><text class="t" x="1082" y="81" style="fill:#FFFFFF">Team's channel</text></g>
+  </g>
+</svg>
