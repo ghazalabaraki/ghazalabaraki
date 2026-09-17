@@ -4,7 +4,6 @@
 
 <p align="left">
   <a href="https://ghazalabaraki.github.io/"><img src="https://img.shields.io/badge/Portfolio-ghazalabaraki.github.io-1B5FD9?style=for-the-badge&labelColor=141414" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/ghazalabaraki/"><img src="https://img.shields.io/badge/LinkedIn-in%2Fghazalabaraki-1B5FD9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=141414" alt="LinkedIn" /></a>
   <a href="mailto:ghazalabaraki@gmail.com"><img src="https://img.shields.io/badge/Email-ghazalabaraki%40gmail.com-E8703A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=141414" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Open_to-Product_%26_Project_roles-F5C542?style=for-the-badge&labelColor=141414" alt="Open to product and project roles" />
 </p>
