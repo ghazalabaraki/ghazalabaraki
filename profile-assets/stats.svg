@@ -3,34 +3,30 @@
     .f { font-family: "Instrument Sans", "Segoe UI", -apple-system, system-ui, Helvetica, Arial, sans-serif; }
     .n { font-size: 52px; font-weight: 700; fill: #141414; letter-spacing: -1.5px; }
     .l { font-size: 15px; fill: #6B6B66; }
-    .c { opacity: 0; animation: in .6s ease-out forwards; }
-    .c1 { animation-delay: .1s } .c2 { animation-delay: .25s } .c3 { animation-delay: .4s } .c4 { animation-delay: .55s }
-    @keyframes in { to { opacity: 1 } }
-    @media (prefers-reduced-motion: reduce) { .c { animation: none; opacity: 1 } }
   </style>
   <g class="f">
-    <g class="c c1">
+    <g>
       <rect x="0.5" y="0.5" width="285" height="179" rx="16" fill="#FFFFFF" stroke="#E5E5E1"/>
       <rect x="28" y="30" width="36" height="6" rx="3" fill="#1B5FD9"/>
       <text class="n" x="28" y="104">48+</text>
       <text class="l" x="28" y="142">agile sprints delivered end to end</text>
     </g>
-    <g class="c c2">
+    <g>
       <rect x="305.5" y="0.5" width="285" height="179" rx="16" fill="#FFFFFF" stroke="#E5E5E1"/>
       <rect x="333" y="30" width="36" height="6" rx="3" fill="#E8703A"/>
       <text class="n" x="333" y="104">8</text>
       <text class="l" x="333" y="142">products across 4 domains</text>
     </g>
-    <g class="c c3">
+    <g>
       <rect x="610.5" y="0.5" width="285" height="179" rx="16" fill="#FFFFFF" stroke="#E5E5E1"/>
       <rect x="638" y="30" width="36" height="6" rx="3" fill="#F5C542"/>
       <text class="n" x="638" y="104">4</text>
       <text class="l" x="638" y="142">projects running at once</text>
     </g>
-    <g class="c c4">
+    <g>
       <rect x="914.5" y="0.5" width="285" height="179" rx="16" fill="#141414" stroke="#141414"/>
       <rect x="942" y="30" width="36" height="6" rx="3" fill="#FFFFFF"/>
-      <text class="n" x="942" y="104" fill="#FFFFFF" style="fill:#FFFFFF">8 → 45+</text>
+      <text class="n" x="942" y="104" style="fill:#FFFFFF">8 → 45+</text>
       <text class="l" x="942" y="142" style="fill:#BDBDB8">people, scaled in 18 months</text>
     </g>
   </g>
